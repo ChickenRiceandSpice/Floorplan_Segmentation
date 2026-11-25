@@ -1,0 +1,8 @@
+train: /home/gen79net/Downloads/Image Detection/Segmented Images/train
+val: //home/gen79net/Downloads/Image Detection/Segmented Images/val
+
+nc: 1
+
+names: ["Walls"]
+
+
